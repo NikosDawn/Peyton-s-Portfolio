@@ -109,6 +109,10 @@ section:hover {
     transition: 0.2s ease;
 }
 
+header h1 {
+    color: white !important;
+}
+
 /* ---------- Desktop ---------- */
 
 @media screen and (min-width: 768px) {
