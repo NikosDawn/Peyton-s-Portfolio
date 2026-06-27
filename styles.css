@@ -17,11 +17,21 @@ body {
     color: #262118;
 }
 
-header {
-    background-color: #262118;
-    color: white;
-    text-align: center;
-    padding: 2rem;
+header{
+    background:#262118;
+    color:white;
+    text-align:center;
+    padding:4rem 2rem;
+}
+
+header h1{
+    font-size:3rem;
+    margin-bottom:.5rem;
+}
+
+.subtitle{
+    color:#66D672;
+    font-size:1.2rem;
 }
 
 nav {
